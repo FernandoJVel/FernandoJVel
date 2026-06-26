@@ -1,3 +1,3 @@
-<div id="header" align="center">
-  <img decoding="async" src="Banner LinkedIn.png" width="800"/>
-</div>
+<p align="center">
+  <img src="Banner LinkedIn.png" height="200"/>
+</p>
