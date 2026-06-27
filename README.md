@@ -1,7 +1,6 @@
 <p align="center">
   <img src="Banner LinkedIn.png" height="200"/>
 </p>
-<hr>
 
 <h3 align="center">
   Hi, I'm Fernando Velasco!
@@ -18,6 +17,7 @@ Skilled in developing test cases and documenting critical workflows to improve t
 
 Advanced English proficiency and professional experience in bilingual customer support and incident resolution for international clients.
 
+---
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t2OGtubXNzd3k3em1uMmEzOGJwaGJtanN3dTF3Y2RjamQ3N2VoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iK9JiJeRBypzJpZWEb/giphy.gif" width="400" height="280" />
 
 ### 🧪 Technical Skills 
@@ -33,8 +33,6 @@ Advanced English proficiency and professional experience in bilingual customer s
 - Test Case Design
 - BugReporting
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXowdGhqOXFsNDV4MGt6M3V3YzFzN29qdmtldmk0ZWdjNzkwZDNjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif" width="400" height="280" />
-
 #### 🌐 Databases:
 - PostgreSQL
 - SQL Queries
@@ -44,9 +42,28 @@ Advanced English proficiency and professional experience in bilingual customer s
 - Agile/Scrum
 - Waterfall
 
-#### 🛠️ Tools
+---
+
+### 🛠️ Tools
 
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
-
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🌐 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernandovelqa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>LinkedIn</b>
+</p>
