@@ -18,7 +18,7 @@ Skilled in developing test cases and documenting critical workflows to improve t
 
 Advanced English proficiency and professional experience in bilingual customer support and incident resolution for international clients.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t2OGtubXNzd3k3em1uMmEzOGJwaGJtanN3dTF3Y2RjamQ3N2VoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iK9JiJeRBypzJpZWEb/giphy.gif" width="400" height="280" />
 
 ### 🧪 Technical Skills 
 
@@ -33,13 +33,7 @@ Advanced English proficiency and professional experience in bilingual customer s
 - Test Case Design
 - BugReporting
 
-#### 🛠️ Tools:
-- Selenium WebDriver (Python)
-- Postman
-- Jira
-- Android Studio
-- DevTools
-- Git/GitHub
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXowdGhqOXFsNDV4MGt6M3V3YzFzN29qdmtldmk0ZWdjNzkwZDNjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif" width="400" height="280" />
 
 #### 🌐 Databases:
 - PostgreSQL
@@ -50,4 +44,9 @@ Advanced English proficiency and professional experience in bilingual customer s
 - Agile/Scrum
 - Waterfall
 
-📧 Let’s connect: fernandovelqa@gmail.com
+#### 🛠️ Tools
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
