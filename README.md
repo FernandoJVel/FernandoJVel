@@ -18,7 +18,7 @@ Skilled in developing test cases and documenting critical workflows to improve t
 Advanced English proficiency and professional experience in bilingual customer support and incident resolution for international clients.
 
 ---
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t2OGtubXNzd3k3em1uMmEzOGJwaGJtanN3dTF3Y2RjamQ3N2VoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iK9JiJeRBypzJpZWEb/giphy.gif" width="300" height="380" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t2OGtubXNzd3k3em1uMmEzOGJwaGJtanN3dTF3Y2RjamQ3N2VoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iK9JiJeRBypzJpZWEb/giphy.gif" width="300" height="280" />
 
 ### 🧪 Technical Skills 
 
