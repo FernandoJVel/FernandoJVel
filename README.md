@@ -57,6 +57,24 @@ Advanced English proficiency and professional experience in bilingual customer s
 
 ---
 
+### 🌱 Currently Learning
+- Advanced Selenium WebDriver
+- Test Automation Framework Design
+- Pytest
+- Page Object Model (POM)
+- CI/CD Integration
+- GitHub Actions
+
+---
+
+### 🎯 Career Goals
+
+I'm currently looking for opportunities as a QA Engineer where I can contribute to software quality, either through manual testing or automation testing.
+
+I'm especially interested in working with teams that value quality, collaboration, continuous learning, and modern testing practices.
+
+---
+
 ## 🌐 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/fernandovelqa/" target="_blank">
@@ -67,3 +85,7 @@ Advanced English proficiency and professional experience in bilingual customer s
 <p align="center">
   <b>LinkedIn</b>
 </p>
+
+---
+
+"Quality is never an accident, it is always the result of intelligent effort." — John Ruskin
