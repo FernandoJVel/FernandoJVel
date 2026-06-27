@@ -42,7 +42,7 @@ Advanced English proficiency and professional experience in bilingual customer s
 - Agile/Scrum
 - Waterfall
 
----
+##
 
 ### 🛠️ Tools
 
@@ -54,6 +54,44 @@ Advanced English proficiency and professional experience in bilingual customer s
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Featured QA Projects
+### 🛴 Urban Scooter — End-to-End QA Testing
+
+Complete quality validation of a scooter rental platform covering web, mobile, APIs, and database verification.
+
+#### Highlights
+✔ Designed 20+ functional test cases  
+✔ Executed End-to-End testing  
+✔ API testing with Postman  
+✔ PostgreSQL database validation  
+✔ Cross-browser and responsive testing  
+✔ UI/UX validation  
+✔ Bug reporting and documentation  
+
+#### Tech Stack
+
+Postman Jira PostgreSQL Android Studio Chrome DevTools Figma
+##
+
+### 🤖 SauceDemo — Selenium Automation
+
+Automated the complete purchasing workflow of an e-commerce application using Selenium WebDriver and Python.
+
+#### Highlights
+✔ Login automation  
+✔ Product selection  
+✔ Shopping cart validation  
+✔ Checkout automation  
+✔ Customer information validation  
+✔ Purchase confirmation  
+✔ End-to-End Automation  
+
+#### Tech Stack
+
+[Python] [Selenium WebDriver] [Pytest]
 
 ---
 
