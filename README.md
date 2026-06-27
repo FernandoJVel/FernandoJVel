@@ -58,23 +58,6 @@ Advanced English proficiency and professional experience in bilingual customer s
 ---
 
 ## 🚀 Featured QA Projects
-### 🛴 Urban Scooter — End-to-End QA Testing
-
-Complete quality validation of a scooter rental platform covering web, mobile, APIs, and database verification.
-
-#### Highlights
-✔ Designed 20+ functional test cases  
-✔ Executed End-to-End testing  
-✔ API testing with Postman  
-✔ PostgreSQL database validation  
-✔ Cross-browser and responsive testing  
-✔ UI/UX validation  
-✔ Bug reporting and documentation  
-
-#### Tech Stack
-
-Postman Jira PostgreSQL Android Studio Chrome DevTools Figma
-##
 
 ### 🤖 SauceDemo — Selenium Automation
 
@@ -92,6 +75,25 @@ Automated the complete purchasing workflow of an e-commerce application using Se
 #### Tech Stack
 
 [Python] [Selenium WebDriver] [Pytest]
+
+##
+
+### 🚖 Urban Routes — Manual Testing
+
+Quality assurance for a taxi booking application, validating the complete customer journey from route selection to trip confirmation.
+
+#### Highlights
+✔ Designed 24+ structured test cases  
+✔ Identified 7 critical defects  
+✔ Functional testing  
+✔ Exploratory testing  
+✔ Regression testing  
+✔ Cross-browser validation  
+✔ Test documentation  
+
+#### Tech Stack
+
+[Chrome] [DevTools] [Jira] [Agile Testing] [Test Documentation] [UI Testing]
 
 ---
 
